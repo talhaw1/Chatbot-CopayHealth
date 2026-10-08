@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+qdrant-client
+google-generativeai
+groq
+pypdf
+langchain-text-splitters
+python-dotenv
+streamlit
